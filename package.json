@@ -19,7 +19,7 @@
   },
   "homepage": "https://redash.io/",
   "dependencies": {
-    "angular": "~1.5.8",
+    "angular": "~1.8.3",
     "angular-base64-upload": "^0.1.19",
     "angular-gridster": "^0.13.14",
     "angular-messages": "^1.5.8",
@@ -42,7 +42,7 @@
     "jquery-ui": "^1.12.1",
     "leaflet": "^1.0.2",
     "leaflet.markercluster": "^1.0.0",
-    "marked": "^0.3.6",
+    "marked": "^4.0.10",
     "material-design-iconic-font": "^2.2.0",
     "moment": "^2.15.2",
     "mousetrap": "^1.6.0",
@@ -51,7 +51,7 @@
     "ng-annotate-loader": "^0.2.0",
     "pace-progress": "git+https://github.com/getredash/pace.git",
     "pivottable": "^2.3.0",
-    "plotly.js": "1.21.2",
+    "plotly.js": "2.25.2",
     "ui-select": "^0.19.6",
     "underscore": "^1.8.3",
     "underscore.string": "^3.3.4"
